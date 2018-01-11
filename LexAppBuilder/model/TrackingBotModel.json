@@ -7,7 +7,7 @@
     "allowUserToClearMetrics": "true",
     "categories": [
       {
-        "name": "Volunteer",
+        "name": "Customers",
         "description": "Tracks how many hours you volunteer",
         "verb": {
           "prefix": ["I", "We"],
@@ -134,7 +134,7 @@
         "monthlyTarget": "0"
       },
       {
-        "name": "Articles",
+        "name": "Facilities",
         "description": "Tracks the number of articles given to charity",
         "verb": {
           "prefix": ["I", "We"],

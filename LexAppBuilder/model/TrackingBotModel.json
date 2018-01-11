@@ -1,6 +1,6 @@
 {
   "bot": {
-    "name": "Resolutions",
+    "name": "CARM BOT",
     "description": "Defines Lex Bot for tracking New Years Resolutions",
     "clarificationPrompt": "Sorry, can you please repeat that?",
     "abortStatement": "Sorry, I could not understand. Goodbye.",
